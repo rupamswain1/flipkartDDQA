@@ -13,21 +13,23 @@ import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
+import com.flipkart.qa.Listner.Listner;
 import com.flipkart.qa.Reports.ExtentReport;
 import com.flipkart.qa.driver.Driver;
-
+@Listeners(com.flipkart.qa.Listner.Listner.class)
 public class test {
 	
 	
 	@BeforeSuite
 	public void init()
 	{
-		
-		Driver.initialize("chrome","yes","yes");
 		ExtentReport.initialize();
 		ExtentReport.logger= ExtentReport.report.startTest("abc");
+		Driver.initialize("chrome","yes","yes");
+		
 	}
 	
 	@Test(priority=1)

@@ -35,13 +35,13 @@ public class Listner implements ITestListener
 	@Override
 	public void onTestFailure(ITestResult arg0) {
 		// TODO Auto-generated method stub
-		ExtentReport.logger.log(LogStatus.FAIL,arg0.getName());
+		
 	}
 
 	@Override
 	public void onTestSkipped(ITestResult arg0) {
 		// TODO Auto-generated method stub
-		ExtentReport.logger.log(LogStatus.SKIP,arg0.getName());
+		
 	}
 
 	@Override
@@ -54,7 +54,12 @@ public class Listner implements ITestListener
 	@Override
 	public void onTestSuccess(ITestResult arg0) {
 		// TODO Auto-generated method stub
-		ExtentReport.logger.log(LogStatus.PASS,arg0.getName());
+		/*System.out.println("listner prin**********************************************");
+		System.out.println(arg0.getStatus());
+		System.out.println(arg0.getInstance());
+		System.out.println(arg0.getTestName());
+		System.out.println(arg0.getTestContext());
+		System.out.println(arg0.SUCCESS);*/
 		
 	}
 
