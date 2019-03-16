@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="flipkart QA" parallel="classes" thread-count="2" >
+	<test name="Validate Broken Link" verbose="2">
+	<parameter name="browser" value="Chrome"/>
+	<parameter name="headless" value="no"/>
+	<parameter name="imageDisable" value="yes"/>
+		<classes>
+			<class name="com.test.flipkart.BrokenLinkTest"></class>
+		
+		</classes>
+	</test>
+	
+	
+	
+</suite>

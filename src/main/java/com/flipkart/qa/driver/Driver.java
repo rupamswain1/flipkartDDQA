@@ -28,6 +28,7 @@ public class Driver extends ReadPropertyFile
 			driver=new ChromeDriver();
 			LogStatus.pass("Chrome driver launched");
 			driver.manage().window().maximize();
+			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 			new OpenWebsite().openUrl((read.readProperty("url")));
 			
@@ -39,7 +40,7 @@ public class Driver extends ReadPropertyFile
 		
 	}
 	
-	private Driver(String browser, String headless, String ImageDisable)
+	private Driver(String browser, String headless, String imageDisable)
 	{
 		if(browser.equalsIgnoreCase("chrome")|| browser.toUpperCase().contains("CHROME"))
 		{
@@ -47,7 +48,7 @@ public class Driver extends ReadPropertyFile
 				ReadPropertyFile read =new ReadPropertyFile();
 				System.setProperty("webdriver.chrome.driver",read.readProperty("chromeDriverPath"));
 				ChromeOptions options=new ChromeOptions();
-				if(ImageDisable.equalsIgnoreCase("yes"))
+				if(imageDisable.equalsIgnoreCase("yes"))
 				{
 					new DisableImage().disableImg(options);
 				}
@@ -56,7 +57,8 @@ public class Driver extends ReadPropertyFile
 					new HeadlessMode().headless(options);
 				}
 				driver=new ChromeDriver(options);
-				LogStatus.pass("Chrome drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+ImageDisable.toUpperCase());
+				LogStatus.pass("Chrome drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+imageDisable.toUpperCase());
+				driver.manage().window().maximize();
 				new OpenWebsite().openUrl((read.readProperty("url")));
 				
 			}
@@ -72,7 +74,7 @@ public class Driver extends ReadPropertyFile
 				ReadPropertyFile read =new ReadPropertyFile();
 				System.setProperty("webdriver.gecko.driver",read.readProperty("FirefoxDriverPath"));
 				FirefoxOptions options=new FirefoxOptions();
-				if(ImageDisable.equalsIgnoreCase("yes"))
+				if(imageDisable.equalsIgnoreCase("yes"))
 				{
 					new DisableImage().disableImg(options);
 				}
@@ -81,7 +83,8 @@ public class Driver extends ReadPropertyFile
 					new HeadlessMode().headless(options);
 				}
 				driver=new FirefoxDriver(options);
-				LogStatus.pass("Chrome drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+ImageDisable.toUpperCase());
+				driver.manage().window().maximize();
+				LogStatus.pass("Chrome drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+imageDisable.toUpperCase());
 				new OpenWebsite().openUrl((read.readProperty("url")));
 				
 			}
