@@ -72,19 +72,20 @@ public class Driver extends ReadPropertyFile
 			try
 			{
 				ReadPropertyFile read =new ReadPropertyFile();
+				//System.out.println(read.readProperty("FirefoxDriverPath"));
 				System.setProperty("webdriver.gecko.driver",read.readProperty("FirefoxDriverPath"));
-				FirefoxOptions options=new FirefoxOptions();
+				FirefoxOptions FFoptions=new FirefoxOptions();
 				if(imageDisable.equalsIgnoreCase("yes"))
 				{
-					new DisableImage().disableImg(options);
+					new DisableImage().disableImg(FFoptions);
 				}
 				if(headless.equalsIgnoreCase("yes"))
 				{
-					new HeadlessMode().headless(options);
+					new HeadlessMode().headless(FFoptions);
 				}
-				driver=new FirefoxDriver(options);
+				driver=new FirefoxDriver(FFoptions);
 				driver.manage().window().maximize();
-				LogStatus.pass("Chrome drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+imageDisable.toUpperCase());
+				LogStatus.pass("FF drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+imageDisable.toUpperCase());
 				new OpenWebsite().openUrl((read.readProperty("url")));
 				
 			}

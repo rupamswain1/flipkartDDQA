@@ -79,10 +79,11 @@ public class BrokenLinkTest implements AllTestRule{
 	  new OpenWebsite().openUrl(links);
 	  ObjectManager operation=new ObjectManager();
 	  boolean resp=false;
-	  if(Driver.driver.findElement(errorText).isDisplayed())
+	  if(Driver.driver.findElements(errorText).size()>0)
 	  {
 	  resp=(operation.getText(errorText).contains("Unfortunately the page you are looking"));
 	  }
+	  System.out.println(links+"contains error?---->"+resp);
 	  Assert.assertEquals(resp, false, links);
   }
 

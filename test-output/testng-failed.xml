@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [flipkart QA]" parallel="classes">
-  <test thread-count="2" name="Validate Broken Link(failed)" parallel="classes">
-    <parameter name="headless" value="yes"/>
-    <parameter name="browser" value="Chrome"/>
-    <parameter name="imageDisable" value="no"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="com.test.flipkart.BrokenLinkTest">
         <methods>
@@ -14,5 +11,5 @@
         </methods>
       </class> <!-- com.test.flipkart.BrokenLinkTest -->
     </classes>
-  </test> <!-- Validate Broken Link(failed) -->
-</suite> <!-- Failed suite [flipkart QA] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

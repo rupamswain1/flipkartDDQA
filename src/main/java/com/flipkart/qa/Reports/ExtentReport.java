@@ -21,8 +21,8 @@ public class ExtentReport
 		Date date = new Date();
 		String currentDate = formatter.format(date);
 		System.out.println("inside repoet");
-		//report=new ExtentReports(System.getProperty("user.dir")+"\\ExtentReports\\Test Report_"+currentDate+".html");
-		report=new ExtentReports(System.getProperty("user.dir")+"\\ExtentReports\\Test Report.html",false);
+		report=new ExtentReports(System.getProperty("user.dir")+"\\ExtentReports\\Test Report_"+currentDate+".html");
+		//report=new ExtentReports(System.getProperty("user.dir")+"\\ExtentReports\\Test Report.html",false);
 		report.loadConfig(new File(System.getProperty("user.dir")+"\\src//main//resources//extentreport.xml"));
 	}
 	

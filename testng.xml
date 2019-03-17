@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="flipkart QA" parallel="classes" thread-count="2" >
-	<test name="Validate Broken Link" verbose="2">
-	<parameter name="browser" value="Chrome"/>
-	<parameter name="headless" value="no"/>
+<suite name="flipkart QA" parallel="tests" thread-count="2" >
+	
+	
+	<test name="Validate Broken Link in FF" verbose="2">
+	<parameter name="browser" value="chrome"/>
+	<parameter name="headless" value="yes"/>
 	<parameter name="imageDisable" value="yes"/>
 		<classes>
 			<class name="com.test.flipkart.BrokenLinkTest"></class>
