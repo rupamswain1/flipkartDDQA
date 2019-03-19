@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.test.flipkart.BrokenLinkTest">
+      <class name="com.flipkart.qa.runner.BrokenLinkRunner">
         <methods>
-          <include name="InitializeBrowserAndReport"/>
-          <include name="closeBrowserandReport"/>
-          <include name="f"/>
+          <include name="bLTest"/>
+          <include name="done"/>
+          <include name="initialize"/>
         </methods>
-      </class> <!-- com.test.flipkart.BrokenLinkTest -->
+      </class> <!-- com.flipkart.qa.runner.BrokenLinkRunner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
