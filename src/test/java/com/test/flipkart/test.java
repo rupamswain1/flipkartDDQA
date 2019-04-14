@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -22,10 +23,13 @@ import com.flipkart.qa.driver.Driver;
 @Listeners(com.flipkart.qa.Listner.Listner.class)
 public class test {
 	
+	static Logger log=Logger.getLogger("test");
 	
 	@BeforeSuite
 	public void init()
 	{
+		log=Logger.getLogger("test");
+		log.info("abcs");
 		ExtentReport.initialize();
 		ExtentReport.logger= ExtentReport.report.startTest("abc");
 		Driver.initialize("chrome","yes","yes");
@@ -40,7 +44,7 @@ public class test {
 		System.out.println("true");
 	}
 	
-	@Test
+	@Test(testName="Demo Test")
 	public void abc() throws InterruptedException {
 		// TODO Auto-generated method stub
 	/*	System.setProperty("webdriver.chrome.driver", "F:\\Selenium\\chromedriver.exe");
@@ -85,8 +89,8 @@ public class test {
 	@AfterSuite
 	public void end()
 	{
-		ExtentReport.report.endTest(ExtentReport.logger);
+		/*ExtentReport.report.endTest(ExtentReport.logger);
 		ExtentReport.report.flush();
-		ExtentReport.report.close();
+		ExtentReport.report.close();*/
 	}
 }

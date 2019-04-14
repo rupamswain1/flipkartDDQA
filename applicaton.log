@@ -1,0 +1,322 @@
+2019-04-14 16:59:27 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 16:59:28 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 16:59:28 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 16:59:28 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 16:59:28 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 16:59:30 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 16:59:30 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 16:59:30 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 16:59:30 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 16:59:30 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 17:50:44  INFO [main] test:32 - abcs
+2019-04-14 18:30:31 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:30:31 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:30:31 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:30:31 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:30:31 DEBUG [TestNG-tests-1] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:30:33 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:30:33 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:30:33 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:30:33 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:30:33 DEBUG [TestNG-tests-1] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:32:50  INFO [main] test:32 - abcs
+2019-04-14 18:33:12 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:33:12 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:33:12 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:33:12 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:33:12 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:33:14 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:33:14 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:33:14 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:33:14 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:33:14 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:37:49  INFO [main] test:32 - abcs
+2019-04-14 18:38:08 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:38:08 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:38:08 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:38:08 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:38:08 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:38:09 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:38:09 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:38:09 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:38:09 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:38:09 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:42:33  INFO [main] test:32 - abcs
+2019-04-14 18:43:04 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:43:05 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:43:05 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:43:05 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:43:05 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:43:06 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:43:06 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:43:06 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:43:06 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:43:06 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:44:59  INFO [main] test:32 - abcs
+2019-04-14 18:45:27 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:45:27 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:45:27 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:45:27 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:45:27 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:45:29 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:45:29 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:45:29 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:45:29 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:45:29 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:47:00  INFO [main] test:32 - abcs
+2019-04-14 18:47:47 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:47:47 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:47:47 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:47:47 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:47:47 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:47:50 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:47:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:47:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:47:50 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:47:50 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:50:16  INFO [main] test:32 - abcs
+2019-04-14 18:50:55  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 18:50:55  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (4fd33e3194aa80466c97414495463759)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 18:50:56  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (4fd33e3194aa80466c97414495463759)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 18:50:57  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (4fd33e3194aa80466c97414495463759)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 18:50:57 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:50:57 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:50:57 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:50:57 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:50:57 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:51:01 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 18:51:01 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 18:51:01 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 18:51:01 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 18:51:01 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 18:57:45  INFO [main] test:32 - abcs
+2019-04-14 19:00:09  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 19:00:14  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (ef654d07709b7195daa3a838aab200e4)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 19:00:19  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (ef654d07709b7195daa3a838aab200e4)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 19:00:20  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (ef654d07709b7195daa3a838aab200e4)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 19:00:24 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 19:00:24 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 19:00:24 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 19:00:24 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 19:00:24 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 19:00:28 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 19:00:28 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 19:00:28 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 19:00:28 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 19:00:28 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:13:52  INFO [main] test:32 - abcs
+2019-04-14 20:14:37  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:14:37 ERROR [main] EventHandler:177 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='_2AkmmA _29YdH8']"}
+  (Session info: headless chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DAWN', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\RUPAM\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50823}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: fafc8dbc2e99c57cb3c305c99ed6202e
+*** Element info: {Using=xpath, value=//button[@class='_2AkmmA _29YdH8']}
+2019-04-14 20:14:37 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:14:37 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:14:37 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:14:37 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:14:37 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:14:38 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:14:38 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:14:38 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:14:38 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:14:38 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:21:06  INFO [main] test:32 - abcs
+2019-04-14 20:21:40  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:21:41  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (d3be4db008aa05ee1e4480c35dfa4f97)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:21:43  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (d3be4db008aa05ee1e4480c35dfa4f97)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:21:43  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (d3be4db008aa05ee1e4480c35dfa4f97)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:21:43 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:21:43 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:21:43 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:21:44 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:21:44 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:21:45 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:21:45 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:21:45 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:21:45 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:21:45 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:23:24  INFO [main] test:32 - abcs
+2019-04-14 20:23:44  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:23:45  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:23:45  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:23:45  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:23:45  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:23:47  INFO [main] EventHandler:143 - Entered value : boat bluetooth speakers+ into element [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:23:47  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //button[@class='vh79eN']]
+2019-04-14 20:23:47  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (c0adf9dea111d8b4a50ee2876d9d95a9)] -> xpath: //button[@class='vh79eN']]
+2019-04-14 20:23:48 ERROR [main] EventHandler:177 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='_2yccxO D0YrLF' and text()='Brand']"}
+  (Session info: headless chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DAWN', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\RUPAM\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: c0adf9dea111d8b4a50ee2876d9d95a9
+*** Element info: {Using=xpath, value=//div[@class='_2yccxO D0YrLF' and text()='Brand']}
+2019-04-14 20:23:48 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:23:48 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:23:48 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:23:48 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:23:48 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:23:49 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:23:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:23:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:23:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:23:49 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:28:13  INFO [main] test:32 - abcs
+2019-04-14 20:28:39  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:28:40  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:28:42  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:28:43  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:28:43  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:28:44  INFO [main] EventHandler:143 - Entered value : boat bluetooth speakers+ into element [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:28:44  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //button[@class='vh79eN']]
+2019-04-14 20:28:45  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (efdf1f63401dc3496d36547bb6ceffea)] -> xpath: //button[@class='vh79eN']]
+2019-04-14 20:28:45 ERROR [main] EventHandler:177 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='_2yccxO D0YrLF' and text()='Brand']"}
+  (Session info: headless chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DAWN', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\RUPAM\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52877}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: efdf1f63401dc3496d36547bb6ceffea
+*** Element info: {Using=xpath, value=//div[@class='_2yccxO D0YrLF' and text()='Brand']}
+2019-04-14 20:28:46 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:28:46 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:28:46 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:28:46 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:28:46 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:28:49 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:28:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:28:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:28:49 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:28:49 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:32:17  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:32:17  INFO [TestNG-tests-1] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (3934444cec1534d431e362b217c3f3e6)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:32:17  INFO [TestNG-tests-1] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (3934444cec1534d431e362b217c3f3e6)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:32:19 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:32:19 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:32:19 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:32:19 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:32:19 DEBUG [TestNG-tests-1] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:32:20 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:32:20 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:32:20 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:32:20 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:32:20 DEBUG [TestNG-tests-1] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:34:13  INFO [main] test:32 - abcs
+2019-04-14 20:34:27  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:35:28  INFO [main] test:32 - abcs
+2019-04-14 20:35:44  INFO [main] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:35:44  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:35:44  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:35:44  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:35:45  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:35:45  INFO [main] EventHandler:143 - Entered value : boat bluetooth speakers+ into element [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //input[@class='LM6RPg']]
+2019-04-14 20:35:45  INFO [main] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //button[@class='vh79eN']]
+2019-04-14 20:35:45  INFO [main] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (b684bd126eaf9cf199e1862be8dc0c7b)] -> xpath: //button[@class='vh79eN']]
+2019-04-14 20:35:45 ERROR [main] EventHandler:177 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='_2yccxO D0YrLF' and text()='Brand']"}
+  (Session info: headless chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DAWN', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\RUPAM\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53514}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: b684bd126eaf9cf199e1862be8dc0c7b
+*** Element info: {Using=xpath, value=//div[@class='_2yccxO D0YrLF' and text()='Brand']}
+2019-04-14 20:35:45 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:35:45 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:35:45 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:35:45 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:35:45 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:35:46 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-04-14 20:35:46 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-04-14 20:35:46 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-04-14 20:35:46 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-04-14 20:35:46 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/RUPAM/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-04-14 20:37:16  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:37:16  INFO [TestNG-tests-1] EventHandler:109 - Element found : [[ChromeDriver: chrome on XP (6411c039072446403811614c01d1cea1)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:37:17  INFO [TestNG-tests-1] EventHandler:128 - Clicked on element : [[ChromeDriver: chrome on XP (6411c039072446403811614c01d1cea1)] -> xpath: //button[@class='_2AkmmA _29YdH8']]
+2019-04-14 20:37:17  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.tagName: a
+2019-04-14 20:37:40  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/
+2019-04-14 20:37:41  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:42  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/plus
+2019-04-14 20:37:42  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:44  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/account/login?ret=/
+2019-04-14 20:37:44  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:45  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/viewcart?otracker=Cart_Icon_Click
+2019-04-14 20:37:45  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:47  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-phones-store?otracker=nmenu_sub_Electronics_0_Mobiles
+2019-04-14 20:37:47  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:49  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/mi~brand/pr?sid=tyy,4io&otracker=nmenu_sub_Electronics_0_Mi
+2019-04-14 20:37:49  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:51  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.brand%255B%255D%3DRealme&otracker=nmenu_sub_Electronics_0_Realme
+2019-04-14 20:37:51  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:53  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/samsung-mobile-store?otracker=nmenu_sub_Electronics_0_Samsung
+2019-04-14 20:37:53  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:55  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DInfinix&otracker=nmenu_sub_Electronics_0_Infinix
+2019-04-14 20:37:55  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:57  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/oppo-mobile-phones-store?otracker=nmenu_sub_Electronics_0_OPPO
+2019-04-14 20:37:57  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:37:58  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/apple-products-store?otracker=nmenu_sub_Electronics_0_Apple
+2019-04-14 20:37:58  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:01  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.serviceability%5B%5D%3Dfalse&p%5B%5D=facets.brand%255B%255D%3DVivo&otracker=nmenu_sub_Electronics_0_Vivo
+2019-04-14 20:38:01  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:03  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/search?p[]=facets.brand%255B%255D%3DHonor&sid=tyy%2F4io&otracker=CLP_filters&otracker=nmenu_sub_Electronics_0_Honor
+2019-04-14 20:38:03  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:07  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.brand%255B%255D%3DAsus&otracker=nmenu_sub_Electronics_0_Asus
+2019-04-14 20:38:07  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:10  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/~samsung-galaxy-s10-series/pr?sid=tyy,4io&otracker=nmenu_sub_Electronics_0_Samsung%20S10%20Series
+2019-04-14 20:38:10  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:12  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/~redmi-note-7-series/pr?sid=tyy%2C4io&otracker=nmenu_sub_Electronics_0_Redmi%20Note%207%20%7C%207%20Pro
+2019-04-14 20:38:12  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:14  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/vivo-v15-feb-87hkjh9971-store?otracker=nmenu_sub_Electronics_0_Vivo%20v15%20pro
+2019-04-14 20:38:14  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:16  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/~realme-3-series/pr?sid=tyy,4io&otracker=nmenu_sub_Electronics_0_Realme%203
+2019-04-14 20:38:16  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:18  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobiles/~realme-c1-32gb/pr?sid=tyy,4io&otracker=nmenu_sub_Electronics_0_Realme%20C1(2019)
+2019-04-14 20:38:18  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:21  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/pr?sid=tyy,4mr&otracker=nmenu_sub_Electronics_0_Mobile%20Accessories
+2019-04-14 20:38:21  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:24  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/cases-and-covers/pr?sid=tyy,4mr,q2u&otracker=nmenu_sub_Electronics_0_Mobile%20Cases
+2019-04-14 20:38:24  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:26  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/headphones-store?otracker=nmenu_sub_Electronics_0_Headphones%20%26%20Headsets
+2019-04-14 20:38:26  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:28  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/power-banks/pr?sid=tyy,4mr,fu6&otracker=categorytree&otracker=nmenu_sub_Electronics_0_Power%20Banks
+2019-04-14 20:38:28  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:31  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/screen-guards/pr?sid=tyy,4mr,lrv&otracker=nmenu_sub_Electronics_0_Screenguards
+2019-04-14 20:38:31  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:34  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/memory-cards-readers/memory-cards/pr?sid=tyy,4mr,zzf,7y7&otracker=nmenu_sub_Electronics_0_Memory%20Cards
+2019-04-14 20:38:34  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:36  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/wearable-smart-devices/smart-headphones/pr?sid=ajy,vam&otracker=nmenu_sub_Electronics_0_Smart%20Headphones
+2019-04-14 20:38:36  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:39  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/cables/pr?sid=tyy,4mr,3nu&otracker=nmenu_sub_Electronics_0_Mobile%20Cables
+2019-04-14 20:38:39  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:44  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/chargers/pr?sid=tyy,4mr,tp2&otracker=nmenu_sub_Electronics_0_Mobile%20Chargers
+2019-04-14 20:38:44  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:47  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/mobile-accessories/mobile-holders/pr?sid=tyy,4mr,vnf&marketplace=FLIPKART&otracker=nmenu_sub_Electronics_0_Mobile%20Holders
+2019-04-14 20:38:47  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:51  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/smart-wearables-store?otracker=nmenu_sub_Electronics_0_Smart%20Wearable%20Tech
+2019-04-14 20:38:52  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:54  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/smartwatches-store?otracker=nmenu_sub_Electronics_0_Smart%20Watches
+2019-04-14 20:38:54  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:38:56  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/wearable-smart-devices/smart-glasses/pr?sid=ajy%2Ctcy&otracker=nmenu_sub_Electronics_0_Smart%20Glasses%20(VR)
+2019-04-14 20:38:56  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:39:07  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/wearable-smart-devices/smart-bands/pr?sid=ajy%2Cq7p&otracker=nmenu_sub_Electronics_0_Smart%20Bands
+2019-04-14 20:39:07  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:39:12  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/health-and-appliances-store?otracker=nmenu_sub_Electronics_0_Health%20Care%20Appliances
+2019-04-14 20:39:12  INFO [TestNG-tests-1] EventHandler:114 - Element found : By.xpath: //div[contains(text(),'Unfortunately the page you are looking')]
+2019-04-14 20:39:15  INFO [TestNG-tests-1] EventHandler:55 - Navigated to url: https://www.flipkart.com/health-personal-care-appliances/health-care/health-care-devices/blood-pressure-monitors/pr?sid=zlw,nyl,bvv,kbk&otracker=nmenu_sub_Electronics_0_Bp%20Monitors

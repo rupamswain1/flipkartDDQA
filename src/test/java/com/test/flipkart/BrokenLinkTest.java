@@ -41,8 +41,8 @@ public class BrokenLinkTest implements AllTestRule{
   
   //Initialise browser and extent report, also start report recording
   public void InitializeBrowserAndReport(String browser, String headless, String imageDisable) {
-  	ExtentReport.initialize();
-  	ExtentReport.logger=ExtentReport.report.startTest("Broken Link Test");
+  	/*ExtentReport.initialize();
+  	ExtentReport.logger=ExtentReport.report.startTest("Broken Link Test");*/
   	Driver.initialize(browser, headless, imageDisable);
   	homePage=new HomePage();
   }
@@ -92,9 +92,9 @@ public class BrokenLinkTest implements AllTestRule{
   //Close browser and End report
   public void closeBrowserandReport() {
   	// TODO Auto-generated method stub
-  	ExtentReport.report.flush();
+  /*	ExtentReport.report.flush();
   	ExtentReport.report.endTest(ExtentReport.logger);
-  	ExtentReport.report.close();
+  	ExtentReport.report.close();*/
   	Driver.driver.quit();
   }
   

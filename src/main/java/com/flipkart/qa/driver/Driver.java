@@ -1,5 +1,6 @@
 package com.flipkart.qa.driver;
 
+import java.awt.Event;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
@@ -8,7 +9,9 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 
+import com.flipkart.qa.Listner.EventHandler;
 import com.flipkart.qa.ReadOperation.ReadPropertyFile;
 import com.flipkart.qa.Reports.ExtentReport;
 import com.flipkart.qa.Reports.LogStatus;
@@ -26,6 +29,7 @@ public class Driver extends ReadPropertyFile
 			ReadPropertyFile read =new ReadPropertyFile();
 			System.setProperty("webdriver.chrome.driver",read.readProperty("chromeDriverPath"));
 			driver=new ChromeDriver();
+			EventHandlerInit();
 			LogStatus.pass("Chrome driver launched");
 			driver.manage().window().maximize();
 			driver.manage().window().maximize();
@@ -57,7 +61,9 @@ public class Driver extends ReadPropertyFile
 					new HeadlessMode().headless(options);
 				}
 				driver=new ChromeDriver(options);
+				EventHandlerInit();
 				LogStatus.pass("Chrome drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+imageDisable.toUpperCase());
+				
 				driver.manage().window().maximize();
 				new OpenWebsite().openUrl((read.readProperty("url")));
 				
@@ -84,6 +90,7 @@ public class Driver extends ReadPropertyFile
 					new HeadlessMode().headless(FFoptions);
 				}
 				driver=new FirefoxDriver(FFoptions);
+				EventHandlerInit();
 				driver.manage().window().maximize();
 				LogStatus.pass("FF drive launched with headless mode = "+headless.toUpperCase()+", Image Disable mode = "+imageDisable.toUpperCase());
 				new OpenWebsite().openUrl((read.readProperty("url")));
@@ -105,5 +112,13 @@ public class Driver extends ReadPropertyFile
 	public static void initialize(String browser, String headless, String ImageDisable)
 	{
 		Driver d= new Driver(browser, headless, ImageDisable);
+	}
+	
+	public void EventHandlerInit()
+	{
+		EventFiringWebDriver eventHandle=new EventFiringWebDriver(driver);
+		EventHandler handler=new EventHandler();
+		eventHandle.register(handler);
+		driver=eventHandle;
 	}
 }

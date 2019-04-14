@@ -17,13 +17,16 @@ public class Listner implements ITestListener
 	public void onFinish(ITestContext arg0) 
 	{
 		
-		
+		ExtentReport.report.endTest(ExtentReport.logger);
+		ExtentReport.report.flush();
+		ExtentReport.report.close();
 	}
 
 	@Override
 	public void onStart(ITestContext arg0) {
 		// TODO Auto-generated method stub
-		
+		ExtentReport.initialize();
+		ExtentReport.logger= ExtentReport.report.startTest(arg0.getName());
 	}
 
 	@Override
@@ -35,7 +38,7 @@ public class Listner implements ITestListener
 	@Override
 	public void onTestFailure(ITestResult arg0) {
 		// TODO Auto-generated method stub
-		
+		com.flipkart.qa.Reports.LogStatus.fail("Test case failed");
 	}
 
 	@Override
